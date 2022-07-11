@@ -1,2 +1,2 @@
-usname="" # Enter Username
-pswd=""   # Enter password
+usname="my.bobby.archive._"
+pswd="GowriSivu123$"
